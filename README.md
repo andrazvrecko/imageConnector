@@ -4,3 +4,4 @@ Start by pressing "slika 1" and "slika 2" buttons. Select your images. By pickin
 Some images for testing are provided in Demo folder.
 
 ![Demo 1](/demo/demo1.png)
+![Demo 2](/demo/demo2.png)
