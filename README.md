@@ -1,3 +1,4 @@
+### Project from second year of CS uni
 <b>Interface is not in English</b>
 
 Join two images based on selected points!
